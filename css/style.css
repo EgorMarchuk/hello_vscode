@@ -3,6 +3,10 @@ body {
 }
 
 body {
-  font-size: 30px;
+  font-size: 50px;
   margin: 40px;
+  padding: 40px;
+  border: 1px solid #000;
+  line-height: 20px;
+  color: red;
 }
